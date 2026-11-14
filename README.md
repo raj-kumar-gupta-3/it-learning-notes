@@ -16,14 +16,6 @@ I write everything in my own words. These notes help me check what I have actual
 
 I tick a box only when I can complete the task without looking at my notes.
 
-### CompTIA A+ Core 1
-
-- [ ] 1.0 Mobile Devices
-- [ ] 2.0 Networking
-- [ ] 3.0 Hardware
-- [ ] 4.0 Virtualization and Cloud Computing
-- [ ] 5.0 Hardware and Network Troubleshooting
-
 ### Linux
 
 - [ ] File and directory commands
@@ -32,12 +24,6 @@ I tick a box only when I can complete the task without looking at my notes.
 - [ ] Processes
 - [ ] Package management
 
-### SQL / MySQL
-
-- [ ] SELECT and WHERE
-- [ ] INSERT, UPDATE, DELETE
-- [ ] JOIN
-- [ ] GROUP BY and aggregate functions
 
 ## How I Use This Repository
 
