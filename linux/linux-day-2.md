@@ -1,0 +1,15 @@
+# Linux Day 2: cat command
+
+## What I learned
+- `cat file` shows the text inside a file
+- `cat file1 file2` shows two files one after another
+- `cat -n file` shows line numbers
+- `cat > file` creates a file (it replaces old text)
+- `cat >> file` adds text at the end (it keeps old text)
+
+## Important
+- `>` replaces the old text
+- `>>` keeps the old text and adds new text
+
+## Practice
+I made a folder called linux-practice and tried these commands.
